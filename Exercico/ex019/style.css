@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+/*
+    id HTML = # CSS -> Só pode ter uma id de cada tipo no codigo
+    class HTML = . CSS -> Pode ter 2 class iguais 
+*/
+
+
+body{
+    background-color:#d6fde9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #1e402f;
+}
+
+/* id */
+#principal{
+    text-align: center;
+    background-color: #3c805e;
+    color: #ffffff;
+}
+
+h2{
+    color: #3c805e;
+}
+
+/* Class */
+.basico{
+    color: #3c805e;
+}
+
+.intermediario{
+    color: #80793c;
+}
+
+.avancado{
+    color: #803c3c;
+}
+
+.destaque{
+    background-color: #c5c56070;
+}

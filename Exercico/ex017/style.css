@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to right, #8FC1B5, #589A8D, #007566);
+    font-family: Arial, Helvetica, sans-serif;
+    /*
+        Medidas Absolutas
+            cm, mm, in, "px", pt, pc
+
+        Medidas Absolutas
+            "em", ex, rem, vw, vh, %
+    */
+}
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 3px 2px #00493f;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.75em;
+}
