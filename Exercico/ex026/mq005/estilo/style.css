@@ -4,3 +4,56 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+header{
+    background-color: rgb(170, 170, 170);
+    padding: 10px;
+}
+
+header h1{
+    text-align: center;
+    padding: 5px 0px 10px 0px;
+}
+
+menu{
+    display: block;
+}
+
+menu li{
+    display: inline-block;
+    margin: 0px 15px -10px -10px;
+    padding: 8px;
+    background-color: rgb(59, 59, 59);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.63);
+}
+
+menu a{
+    text-decoration: none;
+    color: white;
+}
+
+main{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    padding: 15px;
+    background-color: white;
+    height: 480px;
+    width: 750px;
+    border-radius: 10px;
+}
+
+article h2{
+    margin-bottom: 20px;
+    font-size: 1.6em;
+    font-weight: bolder;
+}
+
+article p{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 16px;
+}
