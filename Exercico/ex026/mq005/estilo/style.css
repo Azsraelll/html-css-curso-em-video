@@ -32,14 +32,13 @@ menu li{
 
 
 menu li:hover{
-    background-color: ;
+    background-color: rgb(109, 109, 109);
+    transition: 0.5s;
 }
 
 menu a{
     text-decoration: none;
-    color: white;
-    background-color: rgb(59, 59, 59);
-    
+    color: white;  
 }
 main{
     display: block;
